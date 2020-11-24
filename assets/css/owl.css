@@ -152,7 +152,7 @@
 .owl-carousel .owl-video-play-icon {
   position: absolute;
   height: 80px;
-  width: 80px;
+  width: 180px;
   left: 50%;
   top: 50%;
   margin-left: -40px;
@@ -184,3 +184,7 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+  
+.owl-item.cloned{
+	width:300px;
+}
